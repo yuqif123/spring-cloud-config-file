@@ -11,3 +11,6 @@ jdbc:
   idle:
     connection.test.period: 18000
     max.age: 1800
+
+user:
+  username: yuqf
