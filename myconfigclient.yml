@@ -1,0 +1,13 @@
+
+jdbc:
+  dbtype: mysql
+  driverClassName: com.mysql.jdbc.Driver
+  url: jdbc:mysql://127.0.0.1:3306/tg_afin
+  username: 128ED2160BD22BE7
+  password: 7BC6308F9B9BA54E5D5B94BA1E351BA4
+  initialPoolSize: 5
+  minPoolSize: 5
+  maxPoolSize: 10
+  idle:
+    connection.test.period: 18000
+    max.age: 1800
